@@ -15,5 +15,6 @@
  */
 body { padding-top: 50px; }
 footer { margin-top: 100px; }
-table, td, th { vertical-align: middle; border: 30;}
+table { border-spacing: 5px; border-collapse: collapse; }
+td, th { vertical-align: middle; border: 100; padding: 100;}
 th { border-bottom: 1px solid #DDD; }
